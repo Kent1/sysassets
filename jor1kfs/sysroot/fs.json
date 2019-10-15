@@ -1,4 +1,4 @@
-{"src":"http://localhost:8080/jor1kfs/sysroot/fs", "fs":[
+{"src":"http://localhost/jor1kfs/sysroot/fs", "fs":[
 	{ "name":"usr", "mode":"40755", "child":[
 		{ "name":"share", "mode":"40755", "child":[
 			{ "name":"directfb-examples", "mode":"40755", "child":[
